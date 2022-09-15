@@ -54,12 +54,22 @@
     background-color: purple;
 }
 
-.on {
-    box-shadow: 0px 0px 25px 10px wheat
-        /* box-shadow: 0px 0px 7px 15px white; */
-
+.on-red {
+    box-shadow: 0px 0px 25px 10px red;
 }
 
-.opaco {
+.on-yellow {
+    box-shadow: 0px 0px 25px 10px yellow;
+}
+
+.on-green {
+    box-shadow: 0px 0px 25px 10px green;
+}
+
+.on-purple {
+    box-shadow: 0px 0px 25px 10px purple;
+}
+
+.obscured {
     opacity: 0.5;
 }
